@@ -12,4 +12,4 @@ This version provides the following SQL verbs:
 @Moreti2002
 
 # Credits
-https://github.com/mysql/mysql-connector-python
+https://github.com/mysql/mysql-connector-python# easy-mysql-crud
