@@ -1,5 +1,5 @@
 # Description
-Package for MySQL connection. This package makes mysql-python-connector even easier.
+This package simplifies the process of connecting to MySQL using the mysql-python-connector
 
 # About version 0.1
 This version provides the following SQL verbs:
